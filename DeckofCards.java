@@ -61,7 +61,7 @@ public class DeckofCards {
 
     public String dealOneCard(){
         if(Cards_left_in_deck == 0){
-            return ("Sorry! 53rd card is not present. All 52 cards has been drawn above.");
+            return ("Sorry! 53rd card is not present. All 52 cards has been drawn above..");
         }
         else{
             Cards_left_in_deck--;
